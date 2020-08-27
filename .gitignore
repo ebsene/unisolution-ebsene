@@ -7,3 +7,4 @@ bin/
 aspnet-core/src/UniSolution.Ebsene.Web.Host/App_Data/Logs/
 aspnet-core/src/UniSolution.Ebsene.Web.Mvc/App_Data/Logs/
 aspnet-core/src/UniSolution.Ebsene.Migrator/Logs/Logs.txt
+/aspnet-full/src/UniSolution.Ebsene.Web.Host/appsettings.Development.json
